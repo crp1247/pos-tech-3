@@ -1,0 +1,1 @@
+{"root":["./src/app.ts","./src/controllers/moviecontrollers.ts","./src/middleware/handlevalidation.ts","./src/middleware/morganmiddleware.ts","./src/middleware/movievalidation.ts","./src/models/movie.ts","./src/routers/router.ts"],"errors":true,"version":"5.7.2"}

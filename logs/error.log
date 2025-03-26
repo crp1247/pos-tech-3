@@ -1,0 +1,62 @@
+2025--01--05 16:39:16:390 - [31merror[39m: [31mnao foi possivel concectar![39m
+2025--01--05 16:39:16:390 - [31merror[39m: [31mErro Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.nkxe.mongodb.net[39m
+2025--01--08 23:44:59:443 - [31merror[39m: [31mnao foi possivel concectar![39m
+2025--01--08 23:46:03:463 - [31merror[39m: [31mnao foi possivel concectar![39m
+2025--01--09 00:51:28:514 - [31merror[39m: [31merro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2025--01--09 18:46:10:464 - [31merror[39m: [31merro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2025--01--09 20:10:23:104 - [31merror[39m: [31mnao foi possivel concectar![39m
+2025--01--09 20:10:25:104 - [31merror[39m: [31mnao foi possivel concectar![39m
+2025--01--12 01:24:33:240 - [31merror[39m: [31merro no sistema: movie.delete is not a function[39m
+2025--01--25 11:38:42:386 - [31merror[39m: [31merro no sistema: Cast to ObjectId failed for value "null" (type string) at path "_id" for model "Movie"[39m
+2025--01--25 19:37:48:376 - [31merror[39m: [31merro no sistema: Cast to ObjectId failed for value "null" (type string) at path "_id" for model "Movie"[39m
+2025--01--25 19:39:48:396 - [31merror[39m: [31merro no sistema: Cast to ObjectId failed for value "null" (type string) at path "_id" for model "Movie"[39m
+2025--01--25 19:42:00:426 - [31merror[39m: [31merro no sistema: Cast to ObjectId failed for value "null" (type string) at path "_id" for model "Movie"[39m
+2025--01--25 19:42:24:426 - [31merror[39m: [31merro no sistema: Cast to ObjectId failed for value "null" (type string) at path "_id" for model "Movie"[39m
+2025--01--25 19:42:32:426 - [31merror[39m: [31merro no sistema: Cast to ObjectId failed for value "null" (type string) at path "_id" for model "Movie"[39m
+2025--01--25 19:42:40:426 - [31merror[39m: [31merro no sistema: Cast to ObjectId failed for value "null" (type string) at path "_id" for model "Movie"[39m
+2025--01--25 19:42:54:426 - [31merror[39m: [31merro no sistema: Cast to ObjectId failed for value "null" (type string) at path "_id" for model "Movie"[39m
+2025--01--25 19:43:16:436 - [31merror[39m: [31merro no sistema: Cast to ObjectId failed for value "null" (type string) at path "_id" for model "Movie"[39m
+2025--01--25 19:43:39:436 - [31merror[39m: [31merro no sistema: Cast to ObjectId failed for value "null" (type string) at path "_id" for model "Movie"[39m
+2025--01--25 19:56:25:566 - [31merror[39m: [31merro no sistema: Cast to ObjectId failed for value "null" (type string) at path "_id" for model "Movie"[39m
+2025--01--25 20:29:29:296 - [31merror[39m: [31merro no sistema: Cast to ObjectId failed for value "null" (type string) at path "_id" for model "Movie"[39m
+2025--01--25 20:32:29:326 - [31merror[39m: [31merro no sistema: Cast to ObjectId failed for value "null" (type string) at path "_id" for model "Movie"[39m
+2025--01--25 20:33:30:336 - [31merror[39m: [31merro no sistema: Cast to ObjectId failed for value "null" (type string) at path "_id" for model "Movie"[39m
+2025--01--26 00:35:32:350 - [31merror[39m: [31merro no sistema: Cast to ObjectId failed for value "null" (type string) at path "_id" for model "Movie"[39m
+2025--01--26 20:45:26:450 - [31merror[39m: [31merro no sistema: Cast to ObjectId failed for value "null" (type string) at path "_id" for model "Movie"[39m
+2025--01--26 20:46:28:460 - [31merror[39m: [31merro no sistema: Cast to ObjectId failed for value "null" (type string) at path "_id" for model "Movie"[39m
+2025--03--02 17:27:33:270 - [31merror[39m: [31merro no sistema: Cast to ObjectId failed for value "null" (type string) at path "_id" for model "Movie"[39m
+2025--03--04 22:39:01:392 - [31merror[39m: [31merro no sistema: Cast to ObjectId failed for value "user" (type string) at path "_id" for model "Movie"[39m
+2025--03--05 07:35:30:353 - [31merror[39m: [31merro no sistema: Connection pool for blog-shard-00-02.49aag.mongodb.net:27017 was cleared because another operation failed with: "read ECONNRESET"[39m
+2025--03--19 01:04:50:43 - [31merror[39m: [31mnao foi possivel concectar![39m
+2025--03--23 16:19:14:190 - [31merror[39m: [31mnao foi possivel concectar![39m
+2025--03--23 16:21:36:210 - [31merror[39m: [31mnao foi possivel concectar![39m
+2025--03--23 16:37:11:370 - [31merror[39m: [31mnao foi possivel concectar![39m
+2025--03--23 16:37:56:370 - [31merror[39m: [31mnao foi possivel concectar![39m
+2025--03--23 16:41:23:410 - [31merror[39m: [31mnao foi possivel concectar![39m
+2025--03--23 16:43:26:430 - [31merror[39m: [31mnao foi possivel concectar![39m
+2025--03--23 16:51:57:510 - [31merror[39m: [31mnao foi possivel concectar![39m
+2025--03--23 16:53:32:530 - [31merror[39m: [31mnao foi possivel concectar![39m
+2025--03--23 16:54:47:540 - [31merror[39m: [31mnao foi possivel concectar! troxa[39m
+2025--03--23 17:09:25:90 - [31merror[39m: [31mnao foi possivel concectar! troxa[39m
+2025--03--23 17:10:37:100 - [31merror[39m: [31mnao foi possivel concectar! troxa[39m
+2025--03--23 17:12:26:120 - [31merror[39m: [31mnao foi possivel concectar! troxa[39m
+2025--03--23 17:13:35:130 - [31merror[39m: [31mnao foi possivel concectar! troxa[39m
+2025--03--23 17:13:45:130 - [31merror[39m: [31mnao foi possivel concectar! troxa[39m
+2025--03--23 17:16:57:160 - [31merror[39m: [31mnao foi possivel concectar! troxa[39m
+2025--03--23 17:20:03:200 - [31merror[39m: [31mnao foi possivel concectar! troxa[39m
+2025--03--23 17:20:55:200 - [31merror[39m: [31mnao foi possivel concectar! troxa[39m
+2025--03--23 17:21:25:210 - [31merror[39m: [31mnao foi possivel concectar! troxa[39m
+2025--03--23 17:23:04:230 - [31merror[39m: [31mnao foi possivel concectar! troxa[39m
+2025--03--23 17:24:27:240 - [31merror[39m: [31mnao foi possivel concectar! troxa[39m
+2025--03--23 23:34:31:340 - [31merror[39m: [31mnao foi possivel concectar! troxa[39m
+2025--03--23 23:35:10:350 - [31merror[39m: [31mnao foi possivel concectar! troxa[39m
+2025--03--23 23:36:23:360 - [31merror[39m: [31mnao foi possivel concectar! troxa[39m
+2025--03--23 23:36:55:360 - [31merror[39m: [31mnao foi possivel concectar! troxa[39m
+2025--03--23 23:41:22:410 - [31merror[39m: [31mnao foi possivel concectar! troxa[39m
+2025--03--23 23:42:51:420 - [31merror[39m: [31mnao foi possivel concectar! troxa[39m
+2025--03--23 23:43:32:430 - [31merror[39m: [31mnao foi possivel concectar! troxa[39m
+2025--03--23 23:49:21:490 - [31merror[39m: [31mnao foi possivel concectar! troxa[39m
+2025--03--23 23:49:31:490 - [31merror[39m: [31mnao foi possivel concectar! troxa[39m
+2025--03--23 23:50:31:500 - [31merror[39m: [31mnao foi possivel concectar! troxa[39m
+2025--03--25 00:48:27:482 - [31merror[39m: [31merro no sistema: read ECONNRESET[39m
+2025--03--25 10:53:07:532 - [31merror[39m: [31merro no sistema: Cast to ObjectId failed for value "a" (type string) at path "_id" for model "Movie"[39m
