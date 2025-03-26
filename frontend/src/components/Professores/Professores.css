@@ -1,0 +1,56 @@
+.professores-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 80px;
+  }
+  
+  .professores-form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .professores-form label {
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .professores-form input,
+  .professores-form textarea {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1em;
+  }
+  
+  .professores-form button {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #e40e0e;
+    color: #fff;
+    font-size: 1em;
+    cursor: pointer;
+  }
+  
+  .professores-form button:hover {
+    background-color: #c00;
+  }
+  
+  .success-popup {
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #4caf50; /* Verde */
+    color: #fff;
+    text-align: center;
+  }
+  @media (max-width: 750px) {
+    .professores-container {
+      margin-top: 200px;
+    }
+  }

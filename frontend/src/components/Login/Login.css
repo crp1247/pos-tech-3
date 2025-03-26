@@ -1,0 +1,67 @@
+.login-container {
+    max-width: 400px;
+    height: 450px;
+    margin: 0 auto;
+    margin-top: 90px;
+    padding: 20px;
+    padding-top: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .login-form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .login-form label {
+    margin-bottom: 5px;
+    font-weight: bold;
+    text-align: start;
+    margin-top: 25px;
+  }
+  
+  .login-form input {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1em;
+  }
+  
+  .login-form button {
+    padding: 10px;
+    margin-top: 50px;
+    border: none;
+    border-radius: 5px;
+    background-color: #e40e0e;
+    color: #fff;
+    font-size: 1em;
+    cursor: pointer;
+  }
+  
+  .login-form button:hover {
+    background-color: rgb(25, 24, 24);
+  }
+  
+  .popup {
+    position: absolute;
+    top: 50%; 
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 15px;
+    border-radius: 8px;
+    background-color: #4caf50; /* Verde para sucesso */
+    color: white;
+    font-size: 1em;
+    font-weight: bold;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+  }
+  
+  .popup.error {
+    background-color: #f44336; /* Vermelho para erro */
+  }
+  

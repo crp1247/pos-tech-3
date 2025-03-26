@@ -1,0 +1,51 @@
+.vermais-main-container {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  margin-top: 60px;
+}
+
+.vermais-card {
+  background-color: #f7f6f6;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  width: 100%; /* Ocupa toda a largura da tela */
+  max-width: 1200px; /* Limita a largura máxima */
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.vermais-card-img {
+  width: 100%;
+  height: auto;
+  max-height: 600px; /* Define uma altura máxima para a imagem */
+  object-fit: contain; /* Mantém a proporção da imagem dentro do contêiner */
+  background-color: #6f0303; /* Adiciona um fundo cinza claro para contraste */
+}
+
+.vermais-card-title {
+  font-size: 2em;
+  margin: 20px 0;
+
+
+  font-size: 35px;
+  background-color: rgb(21, 21, 21);
+  color: #ed145b;   
+}
+
+.vermais-card-description {
+  font-size: 1.2em;
+  padding: 0 20px 20px;
+}
+
+.vermais-card-professor {
+  font-size: 1em;
+  color: #fff;
+}
+@media (max-width: 750px) {
+  .vermais-main-container {
+  margin-top: 200px;
+   } /* Adiciona margem maior para telas menores */
+}

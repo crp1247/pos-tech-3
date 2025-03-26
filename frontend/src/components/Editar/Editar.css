@@ -1,0 +1,95 @@
+.editar-container {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    position: relative;
+    margin-top: 90px; /* Ajusta a margem superior para não cobrir o header */
+    z-index: 0;
+   
+  }
+  
+  .search-container {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  .search-container input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #e40e0e; /* Borda vermelha */
+    border-radius: 5px 0 0 5px;
+    font-size: 1em;
+  }
+  
+  .search-container button {
+    padding: 10px;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    background-color: #e40e0e;
+    color: #fff;
+    font-size: 1em;
+    cursor: pointer;
+  }
+  
+  .search-container button:hover {
+    background-color: #c00;
+  }
+  
+  .response-message {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #4caf50; /* Verde */
+    color: #fff;
+    text-align: center;
+    z-index: 1000;
+  }
+  
+  .editar-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px; /* Espaçamento entre os campos */
+  }
+  
+  .editar-form label {
+    margin-bottom: 5px;
+    font-weight: bold;
+    background-color: #000; /* Fundo preto */
+    color: #e40e0e; /* Texto vermelho */
+    padding: 5px;
+    border-radius: 5px;
+  }
+  
+  .editar-form input,
+  .editar-form textarea {
+    padding: 10px;
+    border: 2px solid #e40e0e; /* Borda vermelha */
+    border-radius: 5px;
+    font-size: 1em;
+    width: 95%;
+  }
+  
+  .editar-form textarea {
+    height: 100px; /* Aumenta a altura do campo de descrição */
+  }
+  
+  .editar-form button {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #e40e0e;
+    color: #fff;
+    font-size: 1em;
+    cursor: pointer;
+  }
+  
+  .editar-form button:hover {
+    background-color: #c00;
+  }
+  

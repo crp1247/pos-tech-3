@@ -1,0 +1,76 @@
+header {
+    display: flex;
+    background-color: #ed145b;
+    color: white;
+    padding: 20px;
+    width: 100vw;
+    position: fixed;
+    top: 0;
+    left: 0;
+    justify-content: space-evenly;
+    z-index: 999;
+    flex-wrap: wrap; /* Permite a quebra de linha */
+}
+
+h1 {
+    font-size: 20px;
+    background-color: rgb(21, 21, 21);
+    border-radius: 25px; 
+    color: #ed145b;   
+    padding: 10px;
+    margin-top: -1px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+a:hover {
+    color: #111010;
+    cursor: pointer;
+}
+
+input {
+    padding: 10px;
+    border: none;
+    border-radius: 25px;
+    margin-right: 20px;
+    width: 300px;
+    text-align: center;
+    height: 25px;
+}
+
+input[type="text"]::placeholder {
+    color: #8e8b8b;
+}
+
+nav {
+    gap: 20px;
+    display: flex;
+}
+
+/* Media query para telas com largura de 750px ou menor */
+@media (max-width: 750px) {
+    header {
+        justify-content: center; /* Centraliza os itens */
+        flex-wrap: wrap; /* Quebra o header em várias linhas */
+    }
+
+    nav {
+        justify-content: center; /* Centraliza os links */
+        flex-wrap: wrap; /* Permite que os links quebrem em várias linhas */
+        gap: 10px;
+    }
+
+    input {
+        margin: 10px 0; /* Adiciona margem para evitar sobreposição */
+        width: 70%; /* Faz com que o input ocupe a maior parte da largura da tela */
+    }
+
+    h1 {
+        margin-bottom: 10px;
+        margin-right: 50px; /* Dá espaço extra ao título na quebra de linha */
+    }
+}
